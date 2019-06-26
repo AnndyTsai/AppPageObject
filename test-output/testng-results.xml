@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17527" started-at="2019-03-28T07:28:58Z" finished-at="2019-03-28T07:29:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17527" started-at="2019-03-28T07:28:58Z" finished-at="2019-03-28T07:29:16Z">
+      <class name="cn.Hadoop.APPAutoTestFramework.Case.loginTestCase">
+        <test-method status="PASS" signature="loginCase()[pri:0, instance:cn.Hadoop.APPAutoTestFramework.Case.loginTestCase@2034b64c]" name="loginCase" duration-ms="17482" started-at="2019-03-28T07:28:58Z" finished-at="2019-03-28T07:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCase -->
+      </class> <!-- cn.Hadoop.APPAutoTestFramework.Case.loginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
